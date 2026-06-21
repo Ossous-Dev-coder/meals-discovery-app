@@ -1,8 +1,4 @@
 ﻿using MealsApp.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
 using MealAppBusiness.Classes;
 
 namespace MealsApp.Classes

@@ -1,14 +1,6 @@
-﻿using MealAppBusiness;
-using MealAppBusiness.Classes;
-using MealsApp.Classes;
+﻿using MealsApp.Classes;
 using MealsApp.UI;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace MealsApp
 {

@@ -1,6 +1,4 @@
-﻿
-
-namespace Loging_Service
+﻿namespace Loging_Service
 {
     public interface ILog
     {

@@ -1,19 +1,8 @@
-﻿using MealAppBusiness;
-using MealsApp.UI;
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
+﻿using System;
 using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Net;
 using System.Net.Http;
-using System.Security.Policy;
-using System.Text;
 using System.Threading.Tasks;
-using System.Windows.Forms;
-using MealAppBusiness.Classes;
-using Loging_Service;
 using System.Threading;
 using MealsApp.Classes;
 

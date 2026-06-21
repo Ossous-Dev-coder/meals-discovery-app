@@ -1,5 +1,4 @@
-﻿
-namespace MealAppBusiness.Classes
+﻿namespace MealAppBusiness.Classes
 {
 	public static class Utitlity
 	{

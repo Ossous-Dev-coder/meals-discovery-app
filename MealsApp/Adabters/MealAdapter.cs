@@ -1,11 +1,4 @@
-﻿using MealAppBusiness;
-using MealsApp.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MealsApp.Interfaces;
 using MealAppBusiness.Classes;
 
 namespace MealsApp.Classes
